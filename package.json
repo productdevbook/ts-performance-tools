@@ -1,20 +1,24 @@
 {
-  "name": "ts-bundle-template",
+  "name": "ts-performance-tools",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.12.3",
-  "description": "add description",
-  "author": "add author",
+  "description": "A TypeScript library that provides optimized methods for efficient operations and data manipulation, enhancing performance in data-intensive applications.",
+  "author": "productdevbook - hi@productdevbook.com",
   "license": "MIT",
   "funding": "https://github.com/sponsors/productdevbook",
-  "homepage": "https://github.com/productdevbookcom/ts-bundle-template",
+  "homepage": "https://github.com/productdevbook/ts-performance-tools",
   "repository": {
     "type": "git",
-    "url": "https://github.com/productdevbookcom/ts-bundle-template.git"
+    "url": "https://github.com/productdevbook/ts-performance-tools.git"
   },
-  "bugs": "https://github.com/productdevbookcom/ts-bundle-template/issues",
+  "bugs": "https://github.com/productdevbook/ts-performance-tools/issues",
   "keywords": [
-    "add keywords"
+    "typescript",
+    "performance",
+    "data",
+    "manipulation",
+    "optimization"
   ],
   "exports": {
     ".": {
@@ -62,5 +66,4 @@
   "publishConfig": {
     "access": "public"
   }
-
 }
